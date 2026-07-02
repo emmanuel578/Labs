@@ -1,9 +1,5 @@
-Niveau 1 — Les fondations (4 à 6 semaines)
-Cours principal
-LinkedIn Learning
-Ubuntu Linux: Essential Commands and System Administration
-Objectif
-À la fin de ce niveau, tu devras être capable de travailler confortablement sur un serveur Ubuntu sans interface graphique.
+01-Fondations-Linux.md
+
 Compétences :
 Shell
 Système de fichiers
@@ -18,4 +14,3 @@ Stockage
 SSH
 Logs
 
-Le but étant de garder la mémoire active tout en se dévéloppant. 
