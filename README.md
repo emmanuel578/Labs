@@ -15,7 +15,7 @@ La règle est simple :
 
 Aucune semaine ne se termine sans avoir construit quelque chose.
 Chaque laboratoire, chaque script et chaque projet est versionné afin de documenter ma progression et de constituer un portfolio technique.
------------------------------------------------------------------------------------------------------------------
+
 - Ce que démontre ce dépôt
 Il met en évidence
 une progression constante basée sur la pratique ;
@@ -23,7 +23,7 @@ une capacité à apprendre de manière autonome ;
 une approche méthodique de la documentation technique ;
 une vision globale des systèmes, des réseaux, du Cloud et de la cybersécurité ;
 des réalisations concrètes plutôt qu'une simple accumulation de certifications.
------------------------------------------------------------------------------------------------------------------
+
 - Méthodologie
 Chaque technologie suit le même cycle d'apprentissage :
 Comprendre le concept.
@@ -31,7 +31,7 @@ Comprendre le concept.
 Construire un laboratoire.
 Documenter le travail réalisé.
 Publier les résultats sur GitHub.
------------------------------------------------------------------------------------------------------------------
+
 - Technologies étudiées
 Git
 Linux
@@ -44,7 +44,7 @@ Terraform
 Cloud Security
 Rust
 Intelligence Artificielle appliquée
------------------------------------------------------------------------------------------------------------------
+
 - Parcours Linux
 Les laboratoires Linux couvrent progressivement les compétences suivantes.
 Administration
@@ -54,39 +54,39 @@ Permissions
 ACL
 sudo
 PAM
------------------------------------------------------------------------------------------------------------------
+
 - Services
 systemd
 journalctl
 Services
 Timers
------------------------------------------------------------------------------------------------------------------
+
 - Réseau
 SSH
 DNS
 DHCP
 Netplan
 nftables
------------------------------------------------------------------------------------------------------------------
+
 - Stockage
 Disques
 Partitions
 LVM
 RAID
 Points de montage
------------------------------------------------------------------------------------------------------------------
+
 - Sécurité
 SSH Hardening
 AppArmor
 SELinux
 auditd
 Fail2Ban
------------------------------------------------------------------------------------------------------------------
+
 - Automatisation
 Bash
 cron
 Ansible
------------------------------------------------------------------------------------------------------------------
+
 - Dépannage
 Analyse des journaux
 Diagnostic système
